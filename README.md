@@ -8,7 +8,7 @@
   ## Project operation
 
   Explanation of how the project works in video:
-  https://youtu.be/ZcExPHohb9M
+  
 
   ## General Info
  
