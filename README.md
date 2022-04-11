@@ -5,11 +5,6 @@
   ## Project name
   Login
 
-  ## Project operation
-
-  Explanation of how the project works in video:
-  
-
   ## General Info
  
   Basic login to keep registration and make various modifications. project done college homework.
